@@ -20,4 +20,4 @@ In order to generate key words, there exists exception files (in english, deutsc
 words that are used very often such as "the", "or" and many more.
 
 ### CSC 361 Datagram Analyzer
-In this project we developed a network protocol analyzer similar to Wireshark. We were however constrained to analyze the ICMP and UDP protocols.
+In this project we developed a network protocol analyzer similar to Wireshark. We were however constrained to analyze the ICMP and UDP packets.

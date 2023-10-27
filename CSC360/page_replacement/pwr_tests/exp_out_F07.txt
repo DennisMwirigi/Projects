@@ -1,0 +1,5 @@
+
+Memory references: 129288
+Page faults: 7050
+Swap ins: 7050
+Swap outs: 1460
